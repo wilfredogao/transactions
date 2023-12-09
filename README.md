@@ -28,7 +28,7 @@ cd transactions
 
 ## Commands
 -------
-![Console Commands](consoleCmds.jpg)
+![Console Commands](images/consoleCmds.jpg)
 
 ## Writeup
 -------
