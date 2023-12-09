@@ -8,6 +8,7 @@ This is a console application that aims to provide a transactions database.
 - [Installation](#Installation)
 - [Commands](#Commands)
 - [Writeup](#Writeup)
+- [Example Output](#Example-Output)
 
 ## Installation
 -------
@@ -49,4 +50,9 @@ In terms of grading, I would change the 4 points for working code to be more det
 * 1 point for commit functionality
 * 1 point for rollback functionality
 
-
+## Example Output
+-------
+![Using GET/PUT Commands before beginning transaction](images/outputEx1.jpg)
+![Using PUT/GET/COMMIT Commands after beginng transaction](images/outputEx2.jpg)
+![Using ROLLBACK Commands before beginning transaction](images/outputEx3.jpg)
+![Using GET/PUT/ROLLBACK Commands after beginning transaction](images/outputEx4.jpg)
