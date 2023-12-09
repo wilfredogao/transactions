@@ -5,13 +5,9 @@ This is a console application that aims to provide a transactions database.
 
 ## Table of Contents
 -------
-- [Commands](#Commands)
 - [Installation](#Installation)
+- [Commands](#Commands)
 - [Writeup](#Writeup)
-
-## Commands
--------
-![Console Commands](consoleCmds.jpg)
 
 ## Installation
 -------
@@ -29,6 +25,10 @@ cd transactions
 ```bash
 ./transactions.exe
 ```
+
+## Commands
+-------
+![Console Commands](consoleCmds.jpg)
 
 ## Writeup
 -------
