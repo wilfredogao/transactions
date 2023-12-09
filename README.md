@@ -5,8 +5,13 @@ This is a console application that aims to provide a transactions database.
 
 ## Table of Contents
 -------
+- [Commands](#Commands)
 - [Installation](#Installation)
 - [Writeup](#Writeup)
+
+## Commands
+-------
+![Console Commands](main/consoleCmds.jpg)
 
 ## Installation
 -------
